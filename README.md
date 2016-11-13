@@ -1,6 +1,6 @@
 # Heroku Buildpack Tesseract
 
-This package provide a custom Heroku buildpack providing the [Tesseract OCR](https://code.google.com/p/tesseract-ocr/) binary and all the required libraries to Heroku apps. Training data for English and Finnish language is provided. 
+This package provide a custom Heroku buildpack providing the [Tesseract OCR](https://code.google.com/p/tesseract-ocr/) binary and all the required libraries to Heroku apps. Training data for English and Portuguese language is provided. 
 
 ## Configuration
 
@@ -28,3 +28,6 @@ MIT License.
 Original work Copyright (c) 2013 Marco Azimonti  
 Modified work Copyright (c) 2015 Matteo Maggioni
 
+## Original Code
+[Heroku Buildpack Tesseract] (https://elements.heroku.com/buildpacks/matteotiziano/heroku-buildpack-tesseract)
+by [matteotiziano] (https://github.com/matteotiziano)
